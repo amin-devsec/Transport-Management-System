@@ -40,7 +40,7 @@ Example:
 ### Compile
 
 ```bash
-g++ -std=c++11 src/TransportManagmentSystem.cpp -o transport
+g++ -std=c++11 src/TransportManagementSystem.cpp -o transport
 ```
 
 ### Run
