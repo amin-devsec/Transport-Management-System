@@ -37,9 +37,23 @@ Cyber Security Student (4th Semester)
 
 Example:
 
+### Compile
+
+```bash
 g++ -std=c++11 src/TransportManagmentSystem.cpp -o transport
-./transport # Linux Base
-transport.exe # window base
+```
+
+### Run
+
+**Linux/macOS**
+```bash
+./transport
+```
+
+**Windows**
+```bash
+transport.exe
+```
 
 ## Project Structure
 
