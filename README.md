@@ -37,18 +37,21 @@ Cyber Security Student (4th Semester)
 
 Example:
 
-g++ -std=c++11 main.cpp -o transport 
-./transport
+g++ -std=c++11 src/TransportManagmentSystem.cpp -o transport
+./transport # Linux Base
+transport.exe # window base
 
 ## Project Structure
 
 ```
 Transport-Management-System/
 │
-|-src├── source.cpp
-|    ├── admin.txt
-|    ├── a.exe
-├── ReadMe.txt
+├── src/
+│   ├── TransportManagmentSystem.cpp
+│   └── admin.txt
+│
+├── README.md
+└── .gitignore
 ```
 
 
